@@ -31,3 +31,8 @@ Next You sholud change :
 to customize it to Your database connection type.
 
 The way in which You can initialize and use database, was described in index.php file.
+
+If You want to have most recent Codeigniter's Query Builder You can place system/database folder from it's package.
+But remember to add all necessary function's described in index.php.
+ 
+ Have fun ;)
